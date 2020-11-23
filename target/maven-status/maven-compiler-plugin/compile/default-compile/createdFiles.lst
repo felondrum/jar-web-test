@@ -1,0 +1,7 @@
+ru\sber\jd\controllers\BookController.class
+ru\sber\jd\repositories\BookRepository.class
+ru\sber\jd\services\BookServices.class
+ru\sber\jd\config\RestLessonConfig.class
+ru\sber\jd\dto\BookDto.class
+ru\sber\jd\App.class
+ru\sber\jd\entities\BookEntity.class
